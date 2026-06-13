@@ -1,0 +1,1345 @@
+Scene,Participant,variable,value
+2D Label,P01,Completion Time,99.09
+2D Label,P02,Completion Time,137.66
+2D Label,P03,Completion Time,101.41
+2D Label,P04,Completion Time,112.35
+2D Label,P05,Completion Time,166.27
+2D Label,P06,Completion Time,185.52
+2D Label,P07,Completion Time,120.6
+2D Label,P08,Completion Time,230.42
+2D Label,P09,Completion Time,203.27
+2D Label,P10,Completion Time,170.39
+2D Label,P11,Completion Time,185.64
+2D Label,P12,Completion Time,100.03
+3D Ghost,P01,Completion Time,126.45
+3D Ghost,P02,Completion Time,116.99
+3D Ghost,P03,Completion Time,212.37
+3D Ghost,P04,Completion Time,110.81
+3D Ghost,P05,Completion Time,114.93
+3D Ghost,P06,Completion Time,90.1
+3D Ghost,P07,Completion Time,160.43
+3D Ghost,P08,Completion Time,84.12
+3D Ghost,P09,Completion Time,201.7
+3D Ghost,P10,Completion Time,198.5
+3D Ghost,P11,Completion Time,89.92
+3D Ghost,P12,Completion Time,154.79
+2D Label,P01,Mental Demand,3.0
+2D Label,P02,Mental Demand,4.0
+2D Label,P03,Mental Demand,2.0
+2D Label,P04,Mental Demand,2.0
+2D Label,P05,Mental Demand,5.0
+2D Label,P06,Mental Demand,3.0
+2D Label,P07,Mental Demand,5.0
+2D Label,P08,Mental Demand,3.0
+2D Label,P09,Mental Demand,2.0
+2D Label,P10,Mental Demand,3.0
+2D Label,P11,Mental Demand,3.0
+2D Label,P12,Mental Demand,1.0
+3D Ghost,P01,Mental Demand,2.0
+3D Ghost,P02,Mental Demand,1.0
+3D Ghost,P03,Mental Demand,3.0
+3D Ghost,P04,Mental Demand,3.0
+3D Ghost,P05,Mental Demand,5.0
+3D Ghost,P06,Mental Demand,6.0
+3D Ghost,P07,Mental Demand,3.0
+3D Ghost,P08,Mental Demand,3.0
+3D Ghost,P09,Mental Demand,2.0
+3D Ghost,P10,Mental Demand,1.0
+3D Ghost,P11,Mental Demand,2.0
+3D Ghost,P12,Mental Demand,2.0
+2D Label,P01,Physical Demand,3.0
+2D Label,P02,Physical Demand,3.0
+2D Label,P03,Physical Demand,1.0
+2D Label,P04,Physical Demand,1.0
+2D Label,P05,Physical Demand,1.0
+2D Label,P06,Physical Demand,2.0
+2D Label,P07,Physical Demand,8.0
+2D Label,P08,Physical Demand,3.0
+2D Label,P09,Physical Demand,2.0
+2D Label,P10,Physical Demand,4.0
+2D Label,P11,Physical Demand,3.0
+2D Label,P12,Physical Demand,3.0
+3D Ghost,P01,Physical Demand,3.0
+3D Ghost,P02,Physical Demand,2.0
+3D Ghost,P03,Physical Demand,5.0
+3D Ghost,P04,Physical Demand,1.0
+3D Ghost,P05,Physical Demand,3.0
+3D Ghost,P06,Physical Demand,3.0
+3D Ghost,P07,Physical Demand,2.0
+3D Ghost,P08,Physical Demand,2.0
+3D Ghost,P09,Physical Demand,2.0
+3D Ghost,P10,Physical Demand,1.0
+3D Ghost,P11,Physical Demand,1.0
+3D Ghost,P12,Physical Demand,2.0
+2D Label,P01,Temporal Demand,1.0
+2D Label,P02,Temporal Demand,2.0
+2D Label,P03,Temporal Demand,1.0
+2D Label,P04,Temporal Demand,3.0
+2D Label,P05,Temporal Demand,1.0
+2D Label,P06,Temporal Demand,1.0
+2D Label,P07,Temporal Demand,5.0
+2D Label,P08,Temporal Demand,2.0
+2D Label,P09,Temporal Demand,1.0
+2D Label,P10,Temporal Demand,4.0
+2D Label,P11,Temporal Demand,8.0
+2D Label,P12,Temporal Demand,1.0
+3D Ghost,P01,Temporal Demand,10.0
+3D Ghost,P02,Temporal Demand,1.0
+3D Ghost,P03,Temporal Demand,1.0
+3D Ghost,P04,Temporal Demand,1.0
+3D Ghost,P05,Temporal Demand,5.0
+3D Ghost,P06,Temporal Demand,4.0
+3D Ghost,P07,Temporal Demand,3.0
+3D Ghost,P08,Temporal Demand,5.0
+3D Ghost,P09,Temporal Demand,3.0
+3D Ghost,P10,Temporal Demand,5.0
+3D Ghost,P11,Temporal Demand,2.0
+3D Ghost,P12,Temporal Demand,2.0
+2D Label,P01,Performance,10.0
+2D Label,P02,Performance,10.0
+2D Label,P03,Performance,10.0
+2D Label,P04,Performance,8.0
+2D Label,P05,Performance,10.0
+2D Label,P06,Performance,9.0
+2D Label,P07,Performance,9.0
+2D Label,P08,Performance,8.0
+2D Label,P09,Performance,10.0
+2D Label,P10,Performance,9.0
+2D Label,P11,Performance,10.0
+2D Label,P12,Performance,10.0
+3D Ghost,P01,Performance,2.0
+3D Ghost,P02,Performance,10.0
+3D Ghost,P03,Performance,10.0
+3D Ghost,P04,Performance,10.0
+3D Ghost,P05,Performance,8.0
+3D Ghost,P06,Performance,7.0
+3D Ghost,P07,Performance,9.0
+3D Ghost,P08,Performance,10.0
+3D Ghost,P09,Performance,9.0
+3D Ghost,P10,Performance,10.0
+3D Ghost,P11,Performance,9.0
+3D Ghost,P12,Performance,10.0
+2D Label,P01,Effort,2.0
+2D Label,P02,Effort,1.0
+2D Label,P03,Effort,2.0
+2D Label,P04,Effort,3.0
+2D Label,P05,Effort,1.0
+2D Label,P06,Effort,3.0
+2D Label,P07,Effort,6.0
+2D Label,P08,Effort,6.0
+2D Label,P09,Effort,9.0
+2D Label,P10,Effort,3.0
+2D Label,P11,Effort,3.0
+2D Label,P12,Effort,1.0
+3D Ghost,P01,Effort,1.0
+3D Ghost,P02,Effort,2.0
+3D Ghost,P03,Effort,1.0
+3D Ghost,P04,Effort,2.0
+3D Ghost,P05,Effort,3.0
+3D Ghost,P06,Effort,4.0
+3D Ghost,P07,Effort,3.0
+3D Ghost,P08,Effort,3.0
+3D Ghost,P09,Effort,2.0
+3D Ghost,P10,Effort,1.0
+3D Ghost,P11,Effort,3.0
+3D Ghost,P12,Effort,2.0
+2D Label,P01,Frustration,1.0
+2D Label,P02,Frustration,1.0
+2D Label,P03,Frustration,1.0
+2D Label,P04,Frustration,4.0
+2D Label,P05,Frustration,1.0
+2D Label,P06,Frustration,1.0
+2D Label,P07,Frustration,1.0
+2D Label,P08,Frustration,1.0
+2D Label,P09,Frustration,1.0
+2D Label,P10,Frustration,2.0
+2D Label,P11,Frustration,4.0
+2D Label,P12,Frustration,1.0
+3D Ghost,P01,Frustration,5.0
+3D Ghost,P02,Frustration,1.0
+3D Ghost,P03,Frustration,1.0
+3D Ghost,P04,Frustration,2.0
+3D Ghost,P05,Frustration,3.0
+3D Ghost,P06,Frustration,6.0
+3D Ghost,P07,Frustration,2.0
+3D Ghost,P08,Frustration,1.0
+3D Ghost,P09,Frustration,1.0
+3D Ghost,P10,Frustration,1.0
+3D Ghost,P11,Frustration,2.0
+3D Ghost,P12,Frustration,2.0
+2D Label,P01,Sum,20.0
+2D Label,P02,Sum,21.0
+2D Label,P03,Sum,17.0
+2D Label,P04,Sum,21.0
+2D Label,P05,Sum,19.0
+2D Label,P06,Sum,19.0
+2D Label,P07,Sum,34.0
+2D Label,P08,Sum,23.0
+2D Label,P09,Sum,25.0
+2D Label,P10,Sum,25.0
+2D Label,P11,Sum,31.0
+2D Label,P12,Sum,17.0
+3D Ghost,P01,Sum,23.0
+3D Ghost,P02,Sum,17.0
+3D Ghost,P03,Sum,21.0
+3D Ghost,P04,Sum,19.0
+3D Ghost,P05,Sum,27.0
+3D Ghost,P06,Sum,30.0
+3D Ghost,P07,Sum,22.0
+3D Ghost,P08,Sum,24.0
+3D Ghost,P09,Sum,19.0
+3D Ghost,P10,Sum,19.0
+3D Ghost,P11,Sum,19.0
+3D Ghost,P12,Sum,20.0
+2D Label,P01,NASA-TLX Score,3.333333333
+2D Label,P02,NASA-TLX Score,3.5
+2D Label,P03,NASA-TLX Score,2.833333333
+2D Label,P04,NASA-TLX Score,3.5
+2D Label,P05,NASA-TLX Score,3.166666667
+2D Label,P06,NASA-TLX Score,3.166666667
+2D Label,P07,NASA-TLX Score,5.666666667
+2D Label,P08,NASA-TLX Score,3.833333333
+2D Label,P09,NASA-TLX Score,4.166666667
+2D Label,P10,NASA-TLX Score,4.166666667
+2D Label,P11,NASA-TLX Score,5.166666667
+2D Label,P12,NASA-TLX Score,2.833333333
+3D Ghost,P01,NASA-TLX Score,3.833333333
+3D Ghost,P02,NASA-TLX Score,2.833333333
+3D Ghost,P03,NASA-TLX Score,3.5
+3D Ghost,P04,NASA-TLX Score,3.166666667
+3D Ghost,P05,NASA-TLX Score,4.5
+3D Ghost,P06,NASA-TLX Score,5.0
+3D Ghost,P07,NASA-TLX Score,3.666666667
+3D Ghost,P08,NASA-TLX Score,4.0
+3D Ghost,P09,NASA-TLX Score,3.166666667
+3D Ghost,P10,NASA-TLX Score,3.166666667
+3D Ghost,P11,NASA-TLX Score,3.166666667
+3D Ghost,P12,NASA-TLX Score,3.333333333
+2D Label,P01,General discomfort,0.0
+2D Label,P02,General discomfort,0.0
+2D Label,P03,General discomfort,0.0
+2D Label,P04,General discomfort,1.0
+2D Label,P05,General discomfort,0.0
+2D Label,P06,General discomfort,1.0
+2D Label,P07,General discomfort,0.0
+2D Label,P08,General discomfort,1.0
+2D Label,P09,General discomfort,0.0
+2D Label,P10,General discomfort,1.0
+2D Label,P11,General discomfort,1.0
+2D Label,P12,General discomfort,0.0
+3D Ghost,P01,General discomfort,0.0
+3D Ghost,P02,General discomfort,0.0
+3D Ghost,P03,General discomfort,0.0
+3D Ghost,P04,General discomfort,0.0
+3D Ghost,P05,General discomfort,1.0
+3D Ghost,P06,General discomfort,0.0
+3D Ghost,P07,General discomfort,0.0
+3D Ghost,P08,General discomfort,0.0
+3D Ghost,P09,General discomfort,1.0
+3D Ghost,P10,General discomfort,0.0
+3D Ghost,P11,General discomfort,0.0
+3D Ghost,P12,General discomfort,0.0
+2D Label,P01,Fatigue,0.0
+2D Label,P02,Fatigue,0.0
+2D Label,P03,Fatigue,0.0
+2D Label,P04,Fatigue,0.0
+2D Label,P05,Fatigue,0.0
+2D Label,P06,Fatigue,0.0
+2D Label,P07,Fatigue,0.0
+2D Label,P08,Fatigue,1.0
+2D Label,P09,Fatigue,0.0
+2D Label,P10,Fatigue,0.0
+2D Label,P11,Fatigue,2.0
+2D Label,P12,Fatigue,0.0
+3D Ghost,P01,Fatigue,0.0
+3D Ghost,P02,Fatigue,0.0
+3D Ghost,P03,Fatigue,0.0
+3D Ghost,P04,Fatigue,0.0
+3D Ghost,P05,Fatigue,1.0
+3D Ghost,P06,Fatigue,0.0
+3D Ghost,P07,Fatigue,0.0
+3D Ghost,P08,Fatigue,0.0
+3D Ghost,P09,Fatigue,0.0
+3D Ghost,P10,Fatigue,0.0
+3D Ghost,P11,Fatigue,0.0
+3D Ghost,P12,Fatigue,0.0
+2D Label,P01,Headache,0.0
+2D Label,P02,Headache,0.0
+2D Label,P03,Headache,0.0
+2D Label,P04,Headache,0.0
+2D Label,P05,Headache,0.0
+2D Label,P06,Headache,0.0
+2D Label,P07,Headache,0.0
+2D Label,P08,Headache,0.0
+2D Label,P09,Headache,0.0
+2D Label,P10,Headache,0.0
+2D Label,P11,Headache,2.0
+2D Label,P12,Headache,0.0
+3D Ghost,P01,Headache,0.0
+3D Ghost,P02,Headache,0.0
+3D Ghost,P03,Headache,0.0
+3D Ghost,P04,Headache,0.0
+3D Ghost,P05,Headache,0.0
+3D Ghost,P06,Headache,0.0
+3D Ghost,P07,Headache,0.0
+3D Ghost,P08,Headache,0.0
+3D Ghost,P09,Headache,0.0
+3D Ghost,P10,Headache,0.0
+3D Ghost,P11,Headache,0.0
+3D Ghost,P12,Headache,0.0
+2D Label,P01,Eye strain,1.0
+2D Label,P02,Eye strain,1.0
+2D Label,P03,Eye strain,0.0
+2D Label,P04,Eye strain,1.0
+2D Label,P05,Eye strain,0.0
+2D Label,P06,Eye strain,0.0
+2D Label,P07,Eye strain,0.0
+2D Label,P08,Eye strain,2.0
+2D Label,P09,Eye strain,0.0
+2D Label,P10,Eye strain,1.0
+2D Label,P11,Eye strain,0.0
+2D Label,P12,Eye strain,0.0
+3D Ghost,P01,Eye strain,0.0
+3D Ghost,P02,Eye strain,0.0
+3D Ghost,P03,Eye strain,1.0
+3D Ghost,P04,Eye strain,0.0
+3D Ghost,P05,Eye strain,2.0
+3D Ghost,P06,Eye strain,0.0
+3D Ghost,P07,Eye strain,1.0
+3D Ghost,P08,Eye strain,1.0
+3D Ghost,P09,Eye strain,0.0
+3D Ghost,P10,Eye strain,0.0
+3D Ghost,P11,Eye strain,0.0
+3D Ghost,P12,Eye strain,0.0
+2D Label,P01,Difficulty focusing,0.0
+2D Label,P02,Difficulty focusing,0.0
+2D Label,P03,Difficulty focusing,0.0
+2D Label,P04,Difficulty focusing,1.0
+2D Label,P05,Difficulty focusing,0.0
+2D Label,P06,Difficulty focusing,1.0
+2D Label,P07,Difficulty focusing,2.0
+2D Label,P08,Difficulty focusing,1.0
+2D Label,P09,Difficulty focusing,0.0
+2D Label,P10,Difficulty focusing,1.0
+2D Label,P11,Difficulty focusing,0.0
+2D Label,P12,Difficulty focusing,0.0
+3D Ghost,P01,Difficulty focusing,0.0
+3D Ghost,P02,Difficulty focusing,1.0
+3D Ghost,P03,Difficulty focusing,0.0
+3D Ghost,P04,Difficulty focusing,0.0
+3D Ghost,P05,Difficulty focusing,1.0
+3D Ghost,P06,Difficulty focusing,1.0
+3D Ghost,P07,Difficulty focusing,0.0
+3D Ghost,P08,Difficulty focusing,1.0
+3D Ghost,P09,Difficulty focusing,0.0
+3D Ghost,P10,Difficulty focusing,0.0
+3D Ghost,P11,Difficulty focusing,0.0
+3D Ghost,P12,Difficulty focusing,0.0
+2D Label,P01,Increased salivation,0.0
+2D Label,P02,Increased salivation,0.0
+2D Label,P03,Increased salivation,0.0
+2D Label,P04,Increased salivation,0.0
+2D Label,P05,Increased salivation,0.0
+2D Label,P06,Increased salivation,0.0
+2D Label,P07,Increased salivation,0.0
+2D Label,P08,Increased salivation,0.0
+2D Label,P09,Increased salivation,0.0
+2D Label,P10,Increased salivation,0.0
+2D Label,P11,Increased salivation,0.0
+2D Label,P12,Increased salivation,0.0
+3D Ghost,P01,Increased salivation,0.0
+3D Ghost,P02,Increased salivation,0.0
+3D Ghost,P03,Increased salivation,0.0
+3D Ghost,P04,Increased salivation,0.0
+3D Ghost,P05,Increased salivation,0.0
+3D Ghost,P06,Increased salivation,0.0
+3D Ghost,P07,Increased salivation,0.0
+3D Ghost,P08,Increased salivation,0.0
+3D Ghost,P09,Increased salivation,0.0
+3D Ghost,P10,Increased salivation,0.0
+3D Ghost,P11,Increased salivation,0.0
+3D Ghost,P12,Increased salivation,0.0
+2D Label,P01,Sweating,0.0
+2D Label,P02,Sweating,0.0
+2D Label,P03,Sweating,0.0
+2D Label,P04,Sweating,0.0
+2D Label,P05,Sweating,0.0
+2D Label,P06,Sweating,0.0
+2D Label,P07,Sweating,0.0
+2D Label,P08,Sweating,0.0
+2D Label,P09,Sweating,0.0
+2D Label,P10,Sweating,0.0
+2D Label,P11,Sweating,1.0
+2D Label,P12,Sweating,0.0
+3D Ghost,P01,Sweating,0.0
+3D Ghost,P02,Sweating,0.0
+3D Ghost,P03,Sweating,0.0
+3D Ghost,P04,Sweating,0.0
+3D Ghost,P05,Sweating,0.0
+3D Ghost,P06,Sweating,0.0
+3D Ghost,P07,Sweating,0.0
+3D Ghost,P08,Sweating,0.0
+3D Ghost,P09,Sweating,0.0
+3D Ghost,P10,Sweating,0.0
+3D Ghost,P11,Sweating,0.0
+3D Ghost,P12,Sweating,0.0
+2D Label,P01,Nausea Level,0.0
+2D Label,P02,Nausea Level,0.0
+2D Label,P03,Nausea Level,0.0
+2D Label,P04,Nausea Level,0.0
+2D Label,P05,Nausea Level,0.0
+2D Label,P06,Nausea Level,0.0
+2D Label,P07,Nausea Level,0.0
+2D Label,P08,Nausea Level,1.0
+2D Label,P09,Nausea Level,0.0
+2D Label,P10,Nausea Level,0.0
+2D Label,P11,Nausea Level,1.0
+2D Label,P12,Nausea Level,0.0
+3D Ghost,P01,Nausea Level,0.0
+3D Ghost,P02,Nausea Level,0.0
+3D Ghost,P03,Nausea Level,0.0
+3D Ghost,P04,Nausea Level,0.0
+3D Ghost,P05,Nausea Level,0.0
+3D Ghost,P06,Nausea Level,0.0
+3D Ghost,P07,Nausea Level,0.0
+3D Ghost,P08,Nausea Level,0.0
+3D Ghost,P09,Nausea Level,0.0
+3D Ghost,P10,Nausea Level,0.0
+3D Ghost,P11,Nausea Level,1.0
+3D Ghost,P12,Nausea Level,0.0
+2D Label,P01,Difficulty concentrating,0.0
+2D Label,P02,Difficulty concentrating,0.0
+2D Label,P03,Difficulty concentrating,0.0
+2D Label,P04,Difficulty concentrating,1.0
+2D Label,P05,Difficulty concentrating,1.0
+2D Label,P06,Difficulty concentrating,0.0
+2D Label,P07,Difficulty concentrating,2.0
+2D Label,P08,Difficulty concentrating,0.0
+2D Label,P09,Difficulty concentrating,1.0
+2D Label,P10,Difficulty concentrating,0.0
+2D Label,P11,Difficulty concentrating,0.0
+2D Label,P12,Difficulty concentrating,0.0
+3D Ghost,P01,Difficulty concentrating,0.0
+3D Ghost,P02,Difficulty concentrating,0.0
+3D Ghost,P03,Difficulty concentrating,1.0
+3D Ghost,P04,Difficulty concentrating,0.0
+3D Ghost,P05,Difficulty concentrating,0.0
+3D Ghost,P06,Difficulty concentrating,0.0
+3D Ghost,P07,Difficulty concentrating,1.0
+3D Ghost,P08,Difficulty concentrating,0.0
+3D Ghost,P09,Difficulty concentrating,0.0
+3D Ghost,P10,Difficulty concentrating,0.0
+3D Ghost,P11,Difficulty concentrating,0.0
+3D Ghost,P12,Difficulty concentrating,0.0
+2D Label,P01,Fullness of head,0.0
+2D Label,P02,Fullness of head,1.0
+2D Label,P03,Fullness of head,0.0
+2D Label,P04,Fullness of head,0.0
+2D Label,P05,Fullness of head,0.0
+2D Label,P06,Fullness of head,0.0
+2D Label,P07,Fullness of head,0.0
+2D Label,P08,Fullness of head,0.0
+2D Label,P09,Fullness of head,0.0
+2D Label,P10,Fullness of head,1.0
+2D Label,P11,Fullness of head,0.0
+2D Label,P12,Fullness of head,0.0
+3D Ghost,P01,Fullness of head,0.0
+3D Ghost,P02,Fullness of head,0.0
+3D Ghost,P03,Fullness of head,0.0
+3D Ghost,P04,Fullness of head,0.0
+3D Ghost,P05,Fullness of head,1.0
+3D Ghost,P06,Fullness of head,0.0
+3D Ghost,P07,Fullness of head,0.0
+3D Ghost,P08,Fullness of head,0.0
+3D Ghost,P09,Fullness of head,1.0
+3D Ghost,P10,Fullness of head,0.0
+3D Ghost,P11,Fullness of head,1.0
+3D Ghost,P12,Fullness of head,0.0
+2D Label,P01,Blurred vision,1.0
+2D Label,P02,Blurred vision,1.0
+2D Label,P03,Blurred vision,0.0
+2D Label,P04,Blurred vision,1.0
+2D Label,P05,Blurred vision,0.0
+2D Label,P06,Blurred vision,2.0
+2D Label,P07,Blurred vision,0.0
+2D Label,P08,Blurred vision,2.0
+2D Label,P09,Blurred vision,0.0
+2D Label,P10,Blurred vision,1.0
+2D Label,P11,Blurred vision,1.0
+2D Label,P12,Blurred vision,0.0
+3D Ghost,P01,Blurred vision,0.0
+3D Ghost,P02,Blurred vision,0.0
+3D Ghost,P03,Blurred vision,0.0
+3D Ghost,P04,Blurred vision,0.0
+3D Ghost,P05,Blurred vision,2.0
+3D Ghost,P06,Blurred vision,1.0
+3D Ghost,P07,Blurred vision,0.0
+3D Ghost,P08,Blurred vision,1.0
+3D Ghost,P09,Blurred vision,0.0
+3D Ghost,P10,Blurred vision,2.0
+3D Ghost,P11,Blurred vision,0.0
+3D Ghost,P12,Blurred vision,0.0
+2D Label,P01,Dizziness (eyes open),0.0
+2D Label,P02,Dizziness (eyes open),0.0
+2D Label,P03,Dizziness (eyes open),0.0
+2D Label,P04,Dizziness (eyes open),0.0
+2D Label,P05,Dizziness (eyes open),0.0
+2D Label,P06,Dizziness (eyes open),1.0
+2D Label,P07,Dizziness (eyes open),0.0
+2D Label,P08,Dizziness (eyes open),0.0
+2D Label,P09,Dizziness (eyes open),0.0
+2D Label,P10,Dizziness (eyes open),1.0
+2D Label,P11,Dizziness (eyes open),1.0
+2D Label,P12,Dizziness (eyes open),0.0
+3D Ghost,P01,Dizziness (eyes open),0.0
+3D Ghost,P02,Dizziness (eyes open),0.0
+3D Ghost,P03,Dizziness (eyes open),0.0
+3D Ghost,P04,Dizziness (eyes open),0.0
+3D Ghost,P05,Dizziness (eyes open),0.0
+3D Ghost,P06,Dizziness (eyes open),0.0
+3D Ghost,P07,Dizziness (eyes open),0.0
+3D Ghost,P08,Dizziness (eyes open),0.0
+3D Ghost,P09,Dizziness (eyes open),1.0
+3D Ghost,P10,Dizziness (eyes open),0.0
+3D Ghost,P11,Dizziness (eyes open),0.0
+3D Ghost,P12,Dizziness (eyes open),0.0
+2D Label,P01,Dizziness (eyes closed),0.0
+2D Label,P02,Dizziness (eyes closed),0.0
+2D Label,P03,Dizziness (eyes closed),0.0
+2D Label,P04,Dizziness (eyes closed),0.0
+2D Label,P05,Dizziness (eyes closed),0.0
+2D Label,P06,Dizziness (eyes closed),1.0
+2D Label,P07,Dizziness (eyes closed),0.0
+2D Label,P08,Dizziness (eyes closed),0.0
+2D Label,P09,Dizziness (eyes closed),0.0
+2D Label,P10,Dizziness (eyes closed),1.0
+2D Label,P11,Dizziness (eyes closed),1.0
+2D Label,P12,Dizziness (eyes closed),0.0
+3D Ghost,P01,Dizziness (eyes closed),0.0
+3D Ghost,P02,Dizziness (eyes closed),0.0
+3D Ghost,P03,Dizziness (eyes closed),0.0
+3D Ghost,P04,Dizziness (eyes closed),0.0
+3D Ghost,P05,Dizziness (eyes closed),0.0
+3D Ghost,P06,Dizziness (eyes closed),0.0
+3D Ghost,P07,Dizziness (eyes closed),0.0
+3D Ghost,P08,Dizziness (eyes closed),0.0
+3D Ghost,P09,Dizziness (eyes closed),0.0
+3D Ghost,P10,Dizziness (eyes closed),0.0
+3D Ghost,P11,Dizziness (eyes closed),0.0
+3D Ghost,P12,Dizziness (eyes closed),0.0
+2D Label,P01,Vertigo,0.0
+2D Label,P02,Vertigo,0.0
+2D Label,P03,Vertigo,0.0
+2D Label,P04,Vertigo,0.0
+2D Label,P05,Vertigo,0.0
+2D Label,P06,Vertigo,0.0
+2D Label,P07,Vertigo,0.0
+2D Label,P08,Vertigo,1.0
+2D Label,P09,Vertigo,0.0
+2D Label,P10,Vertigo,0.0
+2D Label,P11,Vertigo,0.0
+2D Label,P12,Vertigo,0.0
+3D Ghost,P01,Vertigo,0.0
+3D Ghost,P02,Vertigo,0.0
+3D Ghost,P03,Vertigo,0.0
+3D Ghost,P04,Vertigo,0.0
+3D Ghost,P05,Vertigo,0.0
+3D Ghost,P06,Vertigo,0.0
+3D Ghost,P07,Vertigo,0.0
+3D Ghost,P08,Vertigo,0.0
+3D Ghost,P09,Vertigo,1.0
+3D Ghost,P10,Vertigo,0.0
+3D Ghost,P11,Vertigo,0.0
+3D Ghost,P12,Vertigo,0.0
+2D Label,P01,Stomach awareness,0.0
+2D Label,P02,Stomach awareness,0.0
+2D Label,P03,Stomach awareness,0.0
+2D Label,P04,Stomach awareness,0.0
+2D Label,P05,Stomach awareness,0.0
+2D Label,P06,Stomach awareness,0.0
+2D Label,P07,Stomach awareness,0.0
+2D Label,P08,Stomach awareness,0.0
+2D Label,P09,Stomach awareness,0.0
+2D Label,P10,Stomach awareness,0.0
+2D Label,P11,Stomach awareness,0.0
+2D Label,P12,Stomach awareness,0.0
+3D Ghost,P01,Stomach awareness,0.0
+3D Ghost,P02,Stomach awareness,0.0
+3D Ghost,P03,Stomach awareness,0.0
+3D Ghost,P04,Stomach awareness,0.0
+3D Ghost,P05,Stomach awareness,0.0
+3D Ghost,P06,Stomach awareness,0.0
+3D Ghost,P07,Stomach awareness,0.0
+3D Ghost,P08,Stomach awareness,0.0
+3D Ghost,P09,Stomach awareness,0.0
+3D Ghost,P10,Stomach awareness,0.0
+3D Ghost,P11,Stomach awareness,1.0
+3D Ghost,P12,Stomach awareness,0.0
+2D Label,P01,Burping,0.0
+2D Label,P02,Burping,0.0
+2D Label,P03,Burping,0.0
+2D Label,P04,Burping,0.0
+2D Label,P05,Burping,0.0
+2D Label,P06,Burping,0.0
+2D Label,P07,Burping,0.0
+2D Label,P08,Burping,0.0
+2D Label,P09,Burping,0.0
+2D Label,P10,Burping,0.0
+2D Label,P11,Burping,0.0
+2D Label,P12,Burping,0.0
+3D Ghost,P01,Burping,0.0
+3D Ghost,P02,Burping,0.0
+3D Ghost,P03,Burping,0.0
+3D Ghost,P04,Burping,0.0
+3D Ghost,P05,Burping,0.0
+3D Ghost,P06,Burping,0.0
+3D Ghost,P07,Burping,0.0
+3D Ghost,P08,Burping,0.0
+3D Ghost,P09,Burping,0.0
+3D Ghost,P10,Burping,0.0
+3D Ghost,P11,Burping,0.0
+3D Ghost,P12,Burping,0.0
+2D Label,P01,Sum1,0.0
+2D Label,P02,Sum1,0.0
+2D Label,P03,Sum1,0.0
+2D Label,P04,Sum1,2.0
+2D Label,P05,Sum1,1.0
+2D Label,P06,Sum1,1.0
+2D Label,P07,Sum1,2.0
+2D Label,P08,Sum1,3.0
+2D Label,P09,Sum1,1.0
+2D Label,P10,Sum1,1.0
+2D Label,P11,Sum1,5.0
+2D Label,P12,Sum1,0.0
+3D Ghost,P01,Sum1,0.0
+3D Ghost,P02,Sum1,0.0
+3D Ghost,P03,Sum1,1.0
+3D Ghost,P04,Sum1,0.0
+3D Ghost,P05,Sum1,2.0
+3D Ghost,P06,Sum1,0.0
+3D Ghost,P07,Sum1,1.0
+3D Ghost,P08,Sum1,0.0
+3D Ghost,P09,Sum1,1.0
+3D Ghost,P10,Sum1,0.0
+3D Ghost,P11,Sum1,2.0
+3D Ghost,P12,Sum1,0.0
+2D Label,P01,Nausea,0.0
+2D Label,P02,Nausea,0.0
+2D Label,P03,Nausea,0.0
+2D Label,P04,Nausea,19.08
+2D Label,P05,Nausea,9.54
+2D Label,P06,Nausea,9.54
+2D Label,P07,Nausea,19.08
+2D Label,P08,Nausea,28.62
+2D Label,P09,Nausea,9.54
+2D Label,P10,Nausea,9.54
+2D Label,P11,Nausea,47.7
+2D Label,P12,Nausea,0.0
+3D Ghost,P01,Nausea,0.0
+3D Ghost,P02,Nausea,0.0
+3D Ghost,P03,Nausea,9.54
+3D Ghost,P04,Nausea,0.0
+3D Ghost,P05,Nausea,19.08
+3D Ghost,P06,Nausea,0.0
+3D Ghost,P07,Nausea,9.54
+3D Ghost,P08,Nausea,0.0
+3D Ghost,P09,Nausea,9.54
+3D Ghost,P10,Nausea,0.0
+3D Ghost,P11,Nausea,19.08
+3D Ghost,P12,Nausea,0.0
+2D Label,P01,sum2,2.0
+2D Label,P02,sum2,2.0
+2D Label,P03,sum2,0.0
+2D Label,P04,sum2,5.0
+2D Label,P05,sum2,1.0
+2D Label,P06,sum2,4.0
+2D Label,P07,sum2,4.0
+2D Label,P08,sum2,7.0
+2D Label,P09,sum2,1.0
+2D Label,P10,sum2,4.0
+2D Label,P11,sum2,6.0
+2D Label,P12,sum2,0.0
+3D Ghost,P01,sum2,0.0
+3D Ghost,P02,sum2,1.0
+3D Ghost,P03,sum2,2.0
+3D Ghost,P04,sum2,0.0
+3D Ghost,P05,sum2,7.0
+3D Ghost,P06,sum2,2.0
+3D Ghost,P07,sum2,2.0
+3D Ghost,P08,sum2,3.0
+3D Ghost,P09,sum2,1.0
+3D Ghost,P10,sum2,2.0
+3D Ghost,P11,sum2,0.0
+3D Ghost,P12,sum2,0.0
+2D Label,P01,Oculomotor,15.16
+2D Label,P02,Oculomotor,15.16
+2D Label,P03,Oculomotor,0.0
+2D Label,P04,Oculomotor,37.9
+2D Label,P05,Oculomotor,7.58
+2D Label,P06,Oculomotor,30.32
+2D Label,P07,Oculomotor,30.32
+2D Label,P08,Oculomotor,53.06
+2D Label,P09,Oculomotor,7.58
+2D Label,P10,Oculomotor,30.32
+2D Label,P11,Oculomotor,45.48
+2D Label,P12,Oculomotor,0.0
+3D Ghost,P01,Oculomotor,0.0
+3D Ghost,P02,Oculomotor,7.58
+3D Ghost,P03,Oculomotor,15.16
+3D Ghost,P04,Oculomotor,0.0
+3D Ghost,P05,Oculomotor,53.06
+3D Ghost,P06,Oculomotor,15.16
+3D Ghost,P07,Oculomotor,15.16
+3D Ghost,P08,Oculomotor,22.74
+3D Ghost,P09,Oculomotor,7.58
+3D Ghost,P10,Oculomotor,15.16
+3D Ghost,P11,Oculomotor,0.0
+3D Ghost,P12,Oculomotor,0.0
+2D Label,P01,sum3,1.0
+2D Label,P02,sum3,2.0
+2D Label,P03,sum3,0.0
+2D Label,P04,sum3,2.0
+2D Label,P05,sum3,0.0
+2D Label,P06,sum3,5.0
+2D Label,P07,sum3,2.0
+2D Label,P08,sum3,5.0
+2D Label,P09,sum3,0.0
+2D Label,P10,sum3,5.0
+2D Label,P11,sum3,4.0
+2D Label,P12,sum3,0.0
+3D Ghost,P01,sum3,0.0
+3D Ghost,P02,sum3,1.0
+3D Ghost,P03,sum3,0.0
+3D Ghost,P04,sum3,0.0
+3D Ghost,P05,sum3,4.0
+3D Ghost,P06,sum3,2.0
+3D Ghost,P07,sum3,0.0
+3D Ghost,P08,sum3,2.0
+3D Ghost,P09,sum3,3.0
+3D Ghost,P10,sum3,2.0
+3D Ghost,P11,sum3,2.0
+3D Ghost,P12,sum3,0.0
+2D Label,P01,Disorientation,13.92
+2D Label,P02,Disorientation,27.84
+2D Label,P03,Disorientation,0.0
+2D Label,P04,Disorientation,27.84
+2D Label,P05,Disorientation,0.0
+2D Label,P06,Disorientation,69.6
+2D Label,P07,Disorientation,27.84
+2D Label,P08,Disorientation,69.6
+2D Label,P09,Disorientation,0.0
+2D Label,P10,Disorientation,69.6
+2D Label,P11,Disorientation,55.68
+2D Label,P12,Disorientation,0.0
+3D Ghost,P01,Disorientation,0.0
+3D Ghost,P02,Disorientation,13.92
+3D Ghost,P03,Disorientation,0.0
+3D Ghost,P04,Disorientation,0.0
+3D Ghost,P05,Disorientation,55.68
+3D Ghost,P06,Disorientation,27.84
+3D Ghost,P07,Disorientation,0.0
+3D Ghost,P08,Disorientation,27.84
+3D Ghost,P09,Disorientation,41.76
+3D Ghost,P10,Disorientation,27.84
+3D Ghost,P11,Disorientation,27.84
+3D Ghost,P12,Disorientation,0.0
+2D Label,P01,sum4,3.0
+2D Label,P02,sum4,4.0
+2D Label,P03,sum4,0.0
+2D Label,P04,sum4,9.0
+2D Label,P05,sum4,2.0
+2D Label,P06,sum4,10.0
+2D Label,P07,sum4,8.0
+2D Label,P08,sum4,15.0
+2D Label,P09,sum4,2.0
+2D Label,P10,sum4,10.0
+2D Label,P11,sum4,15.0
+2D Label,P12,sum4,0.0
+3D Ghost,P01,sum4,0.0
+3D Ghost,P02,sum4,2.0
+3D Ghost,P03,sum4,3.0
+3D Ghost,P04,sum4,0.0
+3D Ghost,P05,sum4,13.0
+3D Ghost,P06,sum4,4.0
+3D Ghost,P07,sum4,3.0
+3D Ghost,P08,sum4,5.0
+3D Ghost,P09,sum4,5.0
+3D Ghost,P10,sum4,4.0
+3D Ghost,P11,sum4,4.0
+3D Ghost,P12,sum4,0.0
+2D Label,P01,Sum5,11.22
+2D Label,P02,Sum5,14.96
+2D Label,P03,Sum5,0.0
+2D Label,P04,Sum5,33.66
+2D Label,P05,Sum5,7.48
+2D Label,P06,Sum5,37.4
+2D Label,P07,Sum5,29.92
+2D Label,P08,Sum5,56.1
+2D Label,P09,Sum5,7.48
+2D Label,P10,Sum5,37.4
+2D Label,P11,Sum5,56.1
+2D Label,P12,Sum5,0.0
+3D Ghost,P01,Sum5,0.0
+3D Ghost,P02,Sum5,7.48
+3D Ghost,P03,Sum5,11.22
+3D Ghost,P04,Sum5,0.0
+3D Ghost,P05,Sum5,48.62
+3D Ghost,P06,Sum5,14.96
+3D Ghost,P07,Sum5,11.22
+3D Ghost,P08,Sum5,18.7
+3D Ghost,P09,Sum5,18.7
+3D Ghost,P10,Sum5,14.96
+3D Ghost,P11,Sum5,14.96
+3D Ghost,P12,Sum5,0.0
+2D Label,P01,SSQ Score,11.22
+2D Label,P02,SSQ Score,14.96
+2D Label,P03,SSQ Score,0.0
+2D Label,P04,SSQ Score,33.66
+2D Label,P05,SSQ Score,7.48
+2D Label,P06,SSQ Score,37.4
+2D Label,P07,SSQ Score,29.92
+2D Label,P08,SSQ Score,56.1
+2D Label,P09,SSQ Score,7.48
+2D Label,P10,SSQ Score,37.4
+2D Label,P11,SSQ Score,56.1
+2D Label,P12,SSQ Score,0.0
+3D Ghost,P01,SSQ Score,0.0
+3D Ghost,P02,SSQ Score,7.48
+3D Ghost,P03,SSQ Score,11.22
+3D Ghost,P04,SSQ Score,0.0
+3D Ghost,P05,SSQ Score,48.62
+3D Ghost,P06,SSQ Score,14.96
+3D Ghost,P07,SSQ Score,11.22
+3D Ghost,P08,SSQ Score,18.7
+3D Ghost,P09,SSQ Score,18.7
+3D Ghost,P10,SSQ Score,14.96
+3D Ghost,P11,SSQ Score,14.96
+3D Ghost,P12,SSQ Score,0.0
+2D Label,P01,SUS:I think that I would like to use this system frequently.,4.0
+2D Label,P02,SUS:I think that I would like to use this system frequently.,5.0
+2D Label,P03,SUS:I think that I would like to use this system frequently.,4.0
+2D Label,P04,SUS:I think that I would like to use this system frequently.,5.0
+2D Label,P05,SUS:I think that I would like to use this system frequently.,5.0
+2D Label,P06,SUS:I think that I would like to use this system frequently.,4.0
+2D Label,P07,SUS:I think that I would like to use this system frequently.,5.0
+2D Label,P08,SUS:I think that I would like to use this system frequently.,5.0
+2D Label,P09,SUS:I think that I would like to use this system frequently.,4.0
+2D Label,P10,SUS:I think that I would like to use this system frequently.,2.0
+2D Label,P11,SUS:I think that I would like to use this system frequently.,4.0
+2D Label,P12,SUS:I think that I would like to use this system frequently.,5.0
+3D Ghost,P01,SUS:I think that I would like to use this system frequently.,1.0
+3D Ghost,P02,SUS:I think that I would like to use this system frequently.,5.0
+3D Ghost,P03,SUS:I think that I would like to use this system frequently.,4.0
+3D Ghost,P04,SUS:I think that I would like to use this system frequently.,5.0
+3D Ghost,P05,SUS:I think that I would like to use this system frequently.,5.0
+3D Ghost,P06,SUS:I think that I would like to use this system frequently.,5.0
+3D Ghost,P07,SUS:I think that I would like to use this system frequently.,3.0
+3D Ghost,P08,SUS:I think that I would like to use this system frequently.,3.0
+3D Ghost,P09,SUS:I think that I would like to use this system frequently.,5.0
+3D Ghost,P10,SUS:I think that I would like to use this system frequently.,5.0
+3D Ghost,P11,SUS:I think that I would like to use this system frequently.,1.0
+3D Ghost,P12,SUS:I think that I would like to use this system frequently.,5.0
+2D Label,P01,Unnamed: 3,3.0
+2D Label,P02,Unnamed: 3,4.0
+2D Label,P03,Unnamed: 3,3.0
+2D Label,P04,Unnamed: 3,4.0
+2D Label,P05,Unnamed: 3,4.0
+2D Label,P06,Unnamed: 3,3.0
+2D Label,P07,Unnamed: 3,4.0
+2D Label,P08,Unnamed: 3,4.0
+2D Label,P09,Unnamed: 3,3.0
+2D Label,P10,Unnamed: 3,1.0
+2D Label,P11,Unnamed: 3,3.0
+2D Label,P12,Unnamed: 3,4.0
+3D Ghost,P01,Unnamed: 3,0.0
+3D Ghost,P02,Unnamed: 3,4.0
+3D Ghost,P03,Unnamed: 3,3.0
+3D Ghost,P04,Unnamed: 3,4.0
+3D Ghost,P05,Unnamed: 3,4.0
+3D Ghost,P06,Unnamed: 3,4.0
+3D Ghost,P07,Unnamed: 3,2.0
+3D Ghost,P08,Unnamed: 3,2.0
+3D Ghost,P09,Unnamed: 3,4.0
+3D Ghost,P10,Unnamed: 3,4.0
+3D Ghost,P11,Unnamed: 3,0.0
+3D Ghost,P12,Unnamed: 3,4.0
+2D Label,P01,SUS:I found the system unnecessarily complex. ,1.0
+2D Label,P02,SUS:I found the system unnecessarily complex. ,1.0
+2D Label,P03,SUS:I found the system unnecessarily complex. ,1.0
+2D Label,P04,SUS:I found the system unnecessarily complex. ,2.0
+2D Label,P05,SUS:I found the system unnecessarily complex. ,1.0
+2D Label,P06,SUS:I found the system unnecessarily complex. ,1.0
+2D Label,P07,SUS:I found the system unnecessarily complex. ,2.0
+2D Label,P08,SUS:I found the system unnecessarily complex. ,2.0
+2D Label,P09,SUS:I found the system unnecessarily complex. ,1.0
+2D Label,P10,SUS:I found the system unnecessarily complex. ,3.0
+2D Label,P11,SUS:I found the system unnecessarily complex. ,1.0
+2D Label,P12,SUS:I found the system unnecessarily complex. ,1.0
+3D Ghost,P01,SUS:I found the system unnecessarily complex. ,5.0
+3D Ghost,P02,SUS:I found the system unnecessarily complex. ,2.0
+3D Ghost,P03,SUS:I found the system unnecessarily complex. ,2.0
+3D Ghost,P04,SUS:I found the system unnecessarily complex. ,1.0
+3D Ghost,P05,SUS:I found the system unnecessarily complex. ,2.0
+3D Ghost,P06,SUS:I found the system unnecessarily complex. ,2.0
+3D Ghost,P07,SUS:I found the system unnecessarily complex. ,1.0
+3D Ghost,P08,SUS:I found the system unnecessarily complex. ,1.0
+3D Ghost,P09,SUS:I found the system unnecessarily complex. ,2.0
+3D Ghost,P10,SUS:I found the system unnecessarily complex. ,1.0
+3D Ghost,P11,SUS:I found the system unnecessarily complex. ,2.0
+3D Ghost,P12,SUS:I found the system unnecessarily complex. ,2.0
+2D Label,P01,Unnamed: 5,4.0
+2D Label,P02,Unnamed: 5,4.0
+2D Label,P03,Unnamed: 5,4.0
+2D Label,P04,Unnamed: 5,3.0
+2D Label,P05,Unnamed: 5,4.0
+2D Label,P06,Unnamed: 5,4.0
+2D Label,P07,Unnamed: 5,3.0
+2D Label,P08,Unnamed: 5,3.0
+2D Label,P09,Unnamed: 5,4.0
+2D Label,P10,Unnamed: 5,2.0
+2D Label,P11,Unnamed: 5,4.0
+2D Label,P12,Unnamed: 5,4.0
+3D Ghost,P01,Unnamed: 5,0.0
+3D Ghost,P02,Unnamed: 5,3.0
+3D Ghost,P03,Unnamed: 5,3.0
+3D Ghost,P04,Unnamed: 5,4.0
+3D Ghost,P05,Unnamed: 5,3.0
+3D Ghost,P06,Unnamed: 5,3.0
+3D Ghost,P07,Unnamed: 5,4.0
+3D Ghost,P08,Unnamed: 5,4.0
+3D Ghost,P09,Unnamed: 5,3.0
+3D Ghost,P10,Unnamed: 5,4.0
+3D Ghost,P11,Unnamed: 5,3.0
+3D Ghost,P12,Unnamed: 5,3.0
+2D Label,P01,SUS:I thought the system was easy to use.  ,5.0
+2D Label,P02,SUS:I thought the system was easy to use.  ,5.0
+2D Label,P03,SUS:I thought the system was easy to use.  ,5.0
+2D Label,P04,SUS:I thought the system was easy to use.  ,5.0
+2D Label,P05,SUS:I thought the system was easy to use.  ,5.0
+2D Label,P06,SUS:I thought the system was easy to use.  ,5.0
+2D Label,P07,SUS:I thought the system was easy to use.  ,5.0
+2D Label,P08,SUS:I thought the system was easy to use.  ,4.0
+2D Label,P09,SUS:I thought the system was easy to use.  ,4.0
+2D Label,P10,SUS:I thought the system was easy to use.  ,4.0
+2D Label,P11,SUS:I thought the system was easy to use.  ,5.0
+2D Label,P12,SUS:I thought the system was easy to use.  ,5.0
+3D Ghost,P01,SUS:I thought the system was easy to use.  ,1.0
+3D Ghost,P02,SUS:I thought the system was easy to use.  ,5.0
+3D Ghost,P03,SUS:I thought the system was easy to use.  ,4.0
+3D Ghost,P04,SUS:I thought the system was easy to use.  ,1.0
+3D Ghost,P05,SUS:I thought the system was easy to use.  ,4.0
+3D Ghost,P06,SUS:I thought the system was easy to use.  ,5.0
+3D Ghost,P07,SUS:I thought the system was easy to use.  ,4.0
+3D Ghost,P08,SUS:I thought the system was easy to use.  ,5.0
+3D Ghost,P09,SUS:I thought the system was easy to use.  ,5.0
+3D Ghost,P10,SUS:I thought the system was easy to use.  ,5.0
+3D Ghost,P11,SUS:I thought the system was easy to use.  ,5.0
+3D Ghost,P12,SUS:I thought the system was easy to use.  ,5.0
+2D Label,P01,Unnamed: 7,4.0
+2D Label,P02,Unnamed: 7,4.0
+2D Label,P03,Unnamed: 7,4.0
+2D Label,P04,Unnamed: 7,4.0
+2D Label,P05,Unnamed: 7,4.0
+2D Label,P06,Unnamed: 7,4.0
+2D Label,P07,Unnamed: 7,4.0
+2D Label,P08,Unnamed: 7,3.0
+2D Label,P09,Unnamed: 7,3.0
+2D Label,P10,Unnamed: 7,3.0
+2D Label,P11,Unnamed: 7,4.0
+2D Label,P12,Unnamed: 7,4.0
+3D Ghost,P01,Unnamed: 7,0.0
+3D Ghost,P02,Unnamed: 7,4.0
+3D Ghost,P03,Unnamed: 7,3.0
+3D Ghost,P04,Unnamed: 7,0.0
+3D Ghost,P05,Unnamed: 7,3.0
+3D Ghost,P06,Unnamed: 7,4.0
+3D Ghost,P07,Unnamed: 7,3.0
+3D Ghost,P08,Unnamed: 7,4.0
+3D Ghost,P09,Unnamed: 7,4.0
+3D Ghost,P10,Unnamed: 7,4.0
+3D Ghost,P11,Unnamed: 7,4.0
+3D Ghost,P12,Unnamed: 7,4.0
+2D Label,P01,SUS:I think that I would need the support of a technical person to be able to use this system.   ,2.0
+2D Label,P02,SUS:I think that I would need the support of a technical person to be able to use this system.   ,1.0
+2D Label,P03,SUS:I think that I would need the support of a technical person to be able to use this system.   ,1.0
+2D Label,P04,SUS:I think that I would need the support of a technical person to be able to use this system.   ,1.0
+2D Label,P05,SUS:I think that I would need the support of a technical person to be able to use this system.   ,1.0
+2D Label,P06,SUS:I think that I would need the support of a technical person to be able to use this system.   ,1.0
+2D Label,P07,SUS:I think that I would need the support of a technical person to be able to use this system.   ,2.0
+2D Label,P08,SUS:I think that I would need the support of a technical person to be able to use this system.   ,2.0
+2D Label,P09,SUS:I think that I would need the support of a technical person to be able to use this system.   ,3.0
+2D Label,P10,SUS:I think that I would need the support of a technical person to be able to use this system.   ,1.0
+2D Label,P11,SUS:I think that I would need the support of a technical person to be able to use this system.   ,5.0
+2D Label,P12,SUS:I think that I would need the support of a technical person to be able to use this system.   ,1.0
+3D Ghost,P01,SUS:I think that I would need the support of a technical person to be able to use this system.   ,5.0
+3D Ghost,P02,SUS:I think that I would need the support of a technical person to be able to use this system.   ,1.0
+3D Ghost,P03,SUS:I think that I would need the support of a technical person to be able to use this system.   ,1.0
+3D Ghost,P04,SUS:I think that I would need the support of a technical person to be able to use this system.   ,1.0
+3D Ghost,P05,SUS:I think that I would need the support of a technical person to be able to use this system.   ,3.0
+3D Ghost,P06,SUS:I think that I would need the support of a technical person to be able to use this system.   ,2.0
+3D Ghost,P07,SUS:I think that I would need the support of a technical person to be able to use this system.   ,2.0
+3D Ghost,P08,SUS:I think that I would need the support of a technical person to be able to use this system.   ,3.0
+3D Ghost,P09,SUS:I think that I would need the support of a technical person to be able to use this system.   ,2.0
+3D Ghost,P10,SUS:I think that I would need the support of a technical person to be able to use this system.   ,1.0
+3D Ghost,P11,SUS:I think that I would need the support of a technical person to be able to use this system.   ,3.0
+3D Ghost,P12,SUS:I think that I would need the support of a technical person to be able to use this system.   ,4.0
+2D Label,P01,Unnamed: 9,3.0
+2D Label,P02,Unnamed: 9,4.0
+2D Label,P03,Unnamed: 9,4.0
+2D Label,P04,Unnamed: 9,4.0
+2D Label,P05,Unnamed: 9,4.0
+2D Label,P06,Unnamed: 9,4.0
+2D Label,P07,Unnamed: 9,3.0
+2D Label,P08,Unnamed: 9,3.0
+2D Label,P09,Unnamed: 9,2.0
+2D Label,P10,Unnamed: 9,4.0
+2D Label,P11,Unnamed: 9,0.0
+2D Label,P12,Unnamed: 9,4.0
+3D Ghost,P01,Unnamed: 9,0.0
+3D Ghost,P02,Unnamed: 9,4.0
+3D Ghost,P03,Unnamed: 9,4.0
+3D Ghost,P04,Unnamed: 9,4.0
+3D Ghost,P05,Unnamed: 9,2.0
+3D Ghost,P06,Unnamed: 9,3.0
+3D Ghost,P07,Unnamed: 9,3.0
+3D Ghost,P08,Unnamed: 9,2.0
+3D Ghost,P09,Unnamed: 9,3.0
+3D Ghost,P10,Unnamed: 9,4.0
+3D Ghost,P11,Unnamed: 9,2.0
+3D Ghost,P12,Unnamed: 9,1.0
+2D Label,P01,SUS:I found the various functions in this system were well integrated.  ,4.0
+2D Label,P02,SUS:I found the various functions in this system were well integrated.  ,5.0
+2D Label,P03,SUS:I found the various functions in this system were well integrated.  ,5.0
+2D Label,P04,SUS:I found the various functions in this system were well integrated.  ,5.0
+2D Label,P05,SUS:I found the various functions in this system were well integrated.  ,5.0
+2D Label,P06,SUS:I found the various functions in this system were well integrated.  ,5.0
+2D Label,P07,SUS:I found the various functions in this system were well integrated.  ,5.0
+2D Label,P08,SUS:I found the various functions in this system were well integrated.  ,3.0
+2D Label,P09,SUS:I found the various functions in this system were well integrated.  ,4.0
+2D Label,P10,SUS:I found the various functions in this system were well integrated.  ,4.0
+2D Label,P11,SUS:I found the various functions in this system were well integrated.  ,5.0
+2D Label,P12,SUS:I found the various functions in this system were well integrated.  ,5.0
+3D Ghost,P01,SUS:I found the various functions in this system were well integrated.  ,1.0
+3D Ghost,P02,SUS:I found the various functions in this system were well integrated.  ,5.0
+3D Ghost,P03,SUS:I found the various functions in this system were well integrated.  ,4.0
+3D Ghost,P04,SUS:I found the various functions in this system were well integrated.  ,5.0
+3D Ghost,P05,SUS:I found the various functions in this system were well integrated.  ,3.0
+3D Ghost,P06,SUS:I found the various functions in this system were well integrated.  ,5.0
+3D Ghost,P07,SUS:I found the various functions in this system were well integrated.  ,4.0
+3D Ghost,P08,SUS:I found the various functions in this system were well integrated.  ,4.0
+3D Ghost,P09,SUS:I found the various functions in this system were well integrated.  ,5.0
+3D Ghost,P10,SUS:I found the various functions in this system were well integrated.  ,5.0
+3D Ghost,P11,SUS:I found the various functions in this system were well integrated.  ,3.0
+3D Ghost,P12,SUS:I found the various functions in this system were well integrated.  ,4.0
+2D Label,P01,Unnamed: 11,3.0
+2D Label,P02,Unnamed: 11,4.0
+2D Label,P03,Unnamed: 11,4.0
+2D Label,P04,Unnamed: 11,4.0
+2D Label,P05,Unnamed: 11,4.0
+2D Label,P06,Unnamed: 11,4.0
+2D Label,P07,Unnamed: 11,4.0
+2D Label,P08,Unnamed: 11,2.0
+2D Label,P09,Unnamed: 11,3.0
+2D Label,P10,Unnamed: 11,3.0
+2D Label,P11,Unnamed: 11,4.0
+2D Label,P12,Unnamed: 11,4.0
+3D Ghost,P01,Unnamed: 11,0.0
+3D Ghost,P02,Unnamed: 11,4.0
+3D Ghost,P03,Unnamed: 11,3.0
+3D Ghost,P04,Unnamed: 11,4.0
+3D Ghost,P05,Unnamed: 11,2.0
+3D Ghost,P06,Unnamed: 11,4.0
+3D Ghost,P07,Unnamed: 11,3.0
+3D Ghost,P08,Unnamed: 11,3.0
+3D Ghost,P09,Unnamed: 11,4.0
+3D Ghost,P10,Unnamed: 11,4.0
+3D Ghost,P11,Unnamed: 11,2.0
+3D Ghost,P12,Unnamed: 11,3.0
+2D Label,P01,SUS:I thought there was too much inconsistency in this system  ,1.0
+2D Label,P02,SUS:I thought there was too much inconsistency in this system  ,1.0
+2D Label,P03,SUS:I thought there was too much inconsistency in this system  ,1.0
+2D Label,P04,SUS:I thought there was too much inconsistency in this system  ,3.0
+2D Label,P05,SUS:I thought there was too much inconsistency in this system  ,1.0
+2D Label,P06,SUS:I thought there was too much inconsistency in this system  ,1.0
+2D Label,P07,SUS:I thought there was too much inconsistency in this system  ,2.0
+2D Label,P08,SUS:I thought there was too much inconsistency in this system  ,3.0
+2D Label,P09,SUS:I thought there was too much inconsistency in this system  ,2.0
+2D Label,P10,SUS:I thought there was too much inconsistency in this system  ,2.0
+2D Label,P11,SUS:I thought there was too much inconsistency in this system  ,1.0
+2D Label,P12,SUS:I thought there was too much inconsistency in this system  ,1.0
+3D Ghost,P01,SUS:I thought there was too much inconsistency in this system  ,5.0
+3D Ghost,P02,SUS:I thought there was too much inconsistency in this system  ,1.0
+3D Ghost,P03,SUS:I thought there was too much inconsistency in this system  ,2.0
+3D Ghost,P04,SUS:I thought there was too much inconsistency in this system  ,3.0
+3D Ghost,P05,SUS:I thought there was too much inconsistency in this system  ,2.0
+3D Ghost,P06,SUS:I thought there was too much inconsistency in this system  ,2.0
+3D Ghost,P07,SUS:I thought there was too much inconsistency in this system  ,2.0
+3D Ghost,P08,SUS:I thought there was too much inconsistency in this system  ,2.0
+3D Ghost,P09,SUS:I thought there was too much inconsistency in this system  ,1.0
+3D Ghost,P10,SUS:I thought there was too much inconsistency in this system  ,1.0
+3D Ghost,P11,SUS:I thought there was too much inconsistency in this system  ,3.0
+3D Ghost,P12,SUS:I thought there was too much inconsistency in this system  ,1.0
+2D Label,P01,Unnamed: 13,4.0
+2D Label,P02,Unnamed: 13,4.0
+2D Label,P03,Unnamed: 13,4.0
+2D Label,P04,Unnamed: 13,2.0
+2D Label,P05,Unnamed: 13,4.0
+2D Label,P06,Unnamed: 13,4.0
+2D Label,P07,Unnamed: 13,3.0
+2D Label,P08,Unnamed: 13,2.0
+2D Label,P09,Unnamed: 13,3.0
+2D Label,P10,Unnamed: 13,3.0
+2D Label,P11,Unnamed: 13,4.0
+2D Label,P12,Unnamed: 13,4.0
+3D Ghost,P01,Unnamed: 13,0.0
+3D Ghost,P02,Unnamed: 13,4.0
+3D Ghost,P03,Unnamed: 13,3.0
+3D Ghost,P04,Unnamed: 13,2.0
+3D Ghost,P05,Unnamed: 13,3.0
+3D Ghost,P06,Unnamed: 13,3.0
+3D Ghost,P07,Unnamed: 13,3.0
+3D Ghost,P08,Unnamed: 13,3.0
+3D Ghost,P09,Unnamed: 13,4.0
+3D Ghost,P10,Unnamed: 13,4.0
+3D Ghost,P11,Unnamed: 13,2.0
+3D Ghost,P12,Unnamed: 13,4.0
+2D Label,P01,SUS:I would imagine that most people would learn to use this system very quickly.  ,4.0
+2D Label,P02,SUS:I would imagine that most people would learn to use this system very quickly.  ,5.0
+2D Label,P03,SUS:I would imagine that most people would learn to use this system very quickly.  ,3.0
+2D Label,P04,SUS:I would imagine that most people would learn to use this system very quickly.  ,4.0
+2D Label,P05,SUS:I would imagine that most people would learn to use this system very quickly.  ,5.0
+2D Label,P06,SUS:I would imagine that most people would learn to use this system very quickly.  ,5.0
+2D Label,P07,SUS:I would imagine that most people would learn to use this system very quickly.  ,4.0
+2D Label,P08,SUS:I would imagine that most people would learn to use this system very quickly.  ,4.0
+2D Label,P09,SUS:I would imagine that most people would learn to use this system very quickly.  ,4.0
+2D Label,P10,SUS:I would imagine that most people would learn to use this system very quickly.  ,5.0
+2D Label,P11,SUS:I would imagine that most people would learn to use this system very quickly.  ,5.0
+2D Label,P12,SUS:I would imagine that most people would learn to use this system very quickly.  ,5.0
+3D Ghost,P01,SUS:I would imagine that most people would learn to use this system very quickly.  ,1.0
+3D Ghost,P02,SUS:I would imagine that most people would learn to use this system very quickly.  ,5.0
+3D Ghost,P03,SUS:I would imagine that most people would learn to use this system very quickly.  ,4.0
+3D Ghost,P04,SUS:I would imagine that most people would learn to use this system very quickly.  ,5.0
+3D Ghost,P05,SUS:I would imagine that most people would learn to use this system very quickly.  ,4.0
+3D Ghost,P06,SUS:I would imagine that most people would learn to use this system very quickly.  ,5.0
+3D Ghost,P07,SUS:I would imagine that most people would learn to use this system very quickly.  ,4.0
+3D Ghost,P08,SUS:I would imagine that most people would learn to use this system very quickly.  ,5.0
+3D Ghost,P09,SUS:I would imagine that most people would learn to use this system very quickly.  ,4.0
+3D Ghost,P10,SUS:I would imagine that most people would learn to use this system very quickly.  ,5.0
+3D Ghost,P11,SUS:I would imagine that most people would learn to use this system very quickly.  ,3.0
+3D Ghost,P12,SUS:I would imagine that most people would learn to use this system very quickly.  ,3.0
+2D Label,P01,Unnamed: 15,3.0
+2D Label,P02,Unnamed: 15,4.0
+2D Label,P03,Unnamed: 15,2.0
+2D Label,P04,Unnamed: 15,3.0
+2D Label,P05,Unnamed: 15,4.0
+2D Label,P06,Unnamed: 15,4.0
+2D Label,P07,Unnamed: 15,3.0
+2D Label,P08,Unnamed: 15,3.0
+2D Label,P09,Unnamed: 15,3.0
+2D Label,P10,Unnamed: 15,4.0
+2D Label,P11,Unnamed: 15,4.0
+2D Label,P12,Unnamed: 15,4.0
+3D Ghost,P01,Unnamed: 15,0.0
+3D Ghost,P02,Unnamed: 15,4.0
+3D Ghost,P03,Unnamed: 15,3.0
+3D Ghost,P04,Unnamed: 15,4.0
+3D Ghost,P05,Unnamed: 15,3.0
+3D Ghost,P06,Unnamed: 15,4.0
+3D Ghost,P07,Unnamed: 15,3.0
+3D Ghost,P08,Unnamed: 15,4.0
+3D Ghost,P09,Unnamed: 15,3.0
+3D Ghost,P10,Unnamed: 15,4.0
+3D Ghost,P11,Unnamed: 15,2.0
+3D Ghost,P12,Unnamed: 15,2.0
+2D Label,P01,SUS:I found the system very cumbersome to use.  ,2.0
+2D Label,P02,SUS:I found the system very cumbersome to use.  ,1.0
+2D Label,P03,SUS:I found the system very cumbersome to use.  ,1.0
+2D Label,P04,SUS:I found the system very cumbersome to use.  ,2.0
+2D Label,P05,SUS:I found the system very cumbersome to use.  ,1.0
+2D Label,P06,SUS:I found the system very cumbersome to use.  ,1.0
+2D Label,P07,SUS:I found the system very cumbersome to use.  ,1.0
+2D Label,P08,SUS:I found the system very cumbersome to use.  ,2.0
+2D Label,P09,SUS:I found the system very cumbersome to use.  ,4.0
+2D Label,P10,SUS:I found the system very cumbersome to use.  ,2.0
+2D Label,P11,SUS:I found the system very cumbersome to use.  ,4.0
+2D Label,P12,SUS:I found the system very cumbersome to use.  ,1.0
+3D Ghost,P01,SUS:I found the system very cumbersome to use.  ,5.0
+3D Ghost,P02,SUS:I found the system very cumbersome to use.  ,1.0
+3D Ghost,P03,SUS:I found the system very cumbersome to use.  ,1.0
+3D Ghost,P04,SUS:I found the system very cumbersome to use.  ,1.0
+3D Ghost,P05,SUS:I found the system very cumbersome to use.  ,2.0
+3D Ghost,P06,SUS:I found the system very cumbersome to use.  ,2.0
+3D Ghost,P07,SUS:I found the system very cumbersome to use.  ,2.0
+3D Ghost,P08,SUS:I found the system very cumbersome to use.  ,2.0
+3D Ghost,P09,SUS:I found the system very cumbersome to use.  ,1.0
+3D Ghost,P10,SUS:I found the system very cumbersome to use.  ,1.0
+3D Ghost,P11,SUS:I found the system very cumbersome to use.  ,4.0
+3D Ghost,P12,SUS:I found the system very cumbersome to use.  ,2.0
+2D Label,P01,Unnamed: 17,3.0
+2D Label,P02,Unnamed: 17,4.0
+2D Label,P03,Unnamed: 17,4.0
+2D Label,P04,Unnamed: 17,3.0
+2D Label,P05,Unnamed: 17,4.0
+2D Label,P06,Unnamed: 17,4.0
+2D Label,P07,Unnamed: 17,4.0
+2D Label,P08,Unnamed: 17,3.0
+2D Label,P09,Unnamed: 17,1.0
+2D Label,P10,Unnamed: 17,3.0
+2D Label,P11,Unnamed: 17,1.0
+2D Label,P12,Unnamed: 17,4.0
+3D Ghost,P01,Unnamed: 17,0.0
+3D Ghost,P02,Unnamed: 17,4.0
+3D Ghost,P03,Unnamed: 17,4.0
+3D Ghost,P04,Unnamed: 17,4.0
+3D Ghost,P05,Unnamed: 17,3.0
+3D Ghost,P06,Unnamed: 17,3.0
+3D Ghost,P07,Unnamed: 17,3.0
+3D Ghost,P08,Unnamed: 17,3.0
+3D Ghost,P09,Unnamed: 17,4.0
+3D Ghost,P10,Unnamed: 17,4.0
+3D Ghost,P11,Unnamed: 17,1.0
+3D Ghost,P12,Unnamed: 17,3.0
+2D Label,P01,SUS:I felt very confident using the system.  ,4.0
+2D Label,P02,SUS:I felt very confident using the system.  ,5.0
+2D Label,P03,SUS:I felt very confident using the system.  ,4.0
+2D Label,P04,SUS:I felt very confident using the system.  ,5.0
+2D Label,P05,SUS:I felt very confident using the system.  ,5.0
+2D Label,P06,SUS:I felt very confident using the system.  ,5.0
+2D Label,P07,SUS:I felt very confident using the system.  ,4.0
+2D Label,P08,SUS:I felt very confident using the system.  ,4.0
+2D Label,P09,SUS:I felt very confident using the system.  ,5.0
+2D Label,P10,SUS:I felt very confident using the system.  ,4.0
+2D Label,P11,SUS:I felt very confident using the system.  ,5.0
+2D Label,P12,SUS:I felt very confident using the system.  ,5.0
+3D Ghost,P01,SUS:I felt very confident using the system.  ,1.0
+3D Ghost,P02,SUS:I felt very confident using the system.  ,5.0
+3D Ghost,P03,SUS:I felt very confident using the system.  ,5.0
+3D Ghost,P04,SUS:I felt very confident using the system.  ,5.0
+3D Ghost,P05,SUS:I felt very confident using the system.  ,3.0
+3D Ghost,P06,SUS:I felt very confident using the system.  ,5.0
+3D Ghost,P07,SUS:I felt very confident using the system.  ,5.0
+3D Ghost,P08,SUS:I felt very confident using the system.  ,4.0
+3D Ghost,P09,SUS:I felt very confident using the system.  ,5.0
+3D Ghost,P10,SUS:I felt very confident using the system.  ,5.0
+3D Ghost,P11,SUS:I felt very confident using the system.  ,2.0
+3D Ghost,P12,SUS:I felt very confident using the system.  ,4.0
+2D Label,P01,Unnamed: 19,3.0
+2D Label,P02,Unnamed: 19,4.0
+2D Label,P03,Unnamed: 19,3.0
+2D Label,P04,Unnamed: 19,4.0
+2D Label,P05,Unnamed: 19,4.0
+2D Label,P06,Unnamed: 19,4.0
+2D Label,P07,Unnamed: 19,3.0
+2D Label,P08,Unnamed: 19,3.0
+2D Label,P09,Unnamed: 19,4.0
+2D Label,P10,Unnamed: 19,3.0
+2D Label,P11,Unnamed: 19,4.0
+2D Label,P12,Unnamed: 19,4.0
+3D Ghost,P01,Unnamed: 19,0.0
+3D Ghost,P02,Unnamed: 19,4.0
+3D Ghost,P03,Unnamed: 19,4.0
+3D Ghost,P04,Unnamed: 19,4.0
+3D Ghost,P05,Unnamed: 19,2.0
+3D Ghost,P06,Unnamed: 19,4.0
+3D Ghost,P07,Unnamed: 19,4.0
+3D Ghost,P08,Unnamed: 19,3.0
+3D Ghost,P09,Unnamed: 19,4.0
+3D Ghost,P10,Unnamed: 19,4.0
+3D Ghost,P11,Unnamed: 19,1.0
+3D Ghost,P12,Unnamed: 19,3.0
+2D Label,P01,SUS:I needed to learn a lot of things before I could get going with this system.  ,2.0
+2D Label,P02,SUS:I needed to learn a lot of things before I could get going with this system.  ,1.0
+2D Label,P03,SUS:I needed to learn a lot of things before I could get going with this system.  ,2.0
+2D Label,P04,SUS:I needed to learn a lot of things before I could get going with this system.  ,3.0
+2D Label,P05,SUS:I needed to learn a lot of things before I could get going with this system.  ,1.0
+2D Label,P06,SUS:I needed to learn a lot of things before I could get going with this system.  ,1.0
+2D Label,P07,SUS:I needed to learn a lot of things before I could get going with this system.  ,1.0
+2D Label,P08,SUS:I needed to learn a lot of things before I could get going with this system.  ,2.0
+2D Label,P09,SUS:I needed to learn a lot of things before I could get going with this system.  ,4.0
+2D Label,P10,SUS:I needed to learn a lot of things before I could get going with this system.  ,1.0
+2D Label,P11,SUS:I needed to learn a lot of things before I could get going with this system.  ,2.0
+2D Label,P12,SUS:I needed to learn a lot of things before I could get going with this system.  ,1.0
+3D Ghost,P01,SUS:I needed to learn a lot of things before I could get going with this system.  ,4.0
+3D Ghost,P02,SUS:I needed to learn a lot of things before I could get going with this system.  ,1.0
+3D Ghost,P03,SUS:I needed to learn a lot of things before I could get going with this system.  ,1.0
+3D Ghost,P04,SUS:I needed to learn a lot of things before I could get going with this system.  ,1.0
+3D Ghost,P05,SUS:I needed to learn a lot of things before I could get going with this system.  ,2.0
+3D Ghost,P06,SUS:I needed to learn a lot of things before I could get going with this system.  ,2.0
+3D Ghost,P07,SUS:I needed to learn a lot of things before I could get going with this system.  ,3.0
+3D Ghost,P08,SUS:I needed to learn a lot of things before I could get going with this system.  ,1.0
+3D Ghost,P09,SUS:I needed to learn a lot of things before I could get going with this system.  ,1.0
+3D Ghost,P10,SUS:I needed to learn a lot of things before I could get going with this system.  ,1.0
+3D Ghost,P11,SUS:I needed to learn a lot of things before I could get going with this system.  ,4.0
+3D Ghost,P12,SUS:I needed to learn a lot of things before I could get going with this system.  ,2.0
+2D Label,P01,Unnamed: 21,3.0
+2D Label,P02,Unnamed: 21,4.0
+2D Label,P03,Unnamed: 21,3.0
+2D Label,P04,Unnamed: 21,2.0
+2D Label,P05,Unnamed: 21,4.0
+2D Label,P06,Unnamed: 21,4.0
+2D Label,P07,Unnamed: 21,4.0
+2D Label,P08,Unnamed: 21,3.0
+2D Label,P09,Unnamed: 21,1.0
+2D Label,P10,Unnamed: 21,4.0
+2D Label,P11,Unnamed: 21,3.0
+2D Label,P12,Unnamed: 21,4.0
+3D Ghost,P01,Unnamed: 21,1.0
+3D Ghost,P02,Unnamed: 21,4.0
+3D Ghost,P03,Unnamed: 21,4.0
+3D Ghost,P04,Unnamed: 21,4.0
+3D Ghost,P05,Unnamed: 21,3.0
+3D Ghost,P06,Unnamed: 21,3.0
+3D Ghost,P07,Unnamed: 21,2.0
+3D Ghost,P08,Unnamed: 21,4.0
+3D Ghost,P09,Unnamed: 21,4.0
+3D Ghost,P10,Unnamed: 21,4.0
+3D Ghost,P11,Unnamed: 21,1.0
+3D Ghost,P12,Unnamed: 21,3.0
+2D Label,P01,SUS Score,82.5
+2D Label,P02,SUS Score,100.0
+2D Label,P03,SUS Score,87.5
+2D Label,P04,SUS Score,82.5
+2D Label,P05,SUS Score,100.0
+2D Label,P06,SUS Score,97.5
+2D Label,P07,SUS Score,87.5
+2D Label,P08,SUS Score,72.5
+2D Label,P09,SUS Score,67.5
+2D Label,P10,SUS Score,75.0
+2D Label,P11,SUS Score,77.5
+2D Label,P12,SUS Score,100.0
+3D Ghost,P01,SUS Score,2.5
+3D Ghost,P02,SUS Score,97.5
+3D Ghost,P03,SUS Score,85.0
+3D Ghost,P04,SUS Score,85.0
+3D Ghost,P05,SUS Score,70.0
+3D Ghost,P06,SUS Score,87.5
+3D Ghost,P07,SUS Score,75.0
+3D Ghost,P08,SUS Score,80.0
+3D Ghost,P09,SUS Score,92.5
+3D Ghost,P10,SUS Score,100.0
+3D Ghost,P11,SUS Score,45.0
+3D Ghost,P12,SUS Score,75.0
+2D Label,P01,SUS Points,33.0
+2D Label,P02,SUS Points,40.0
+2D Label,P03,SUS Points,35.0
+2D Label,P04,SUS Points,33.0
+2D Label,P05,SUS Points,40.0
+2D Label,P06,SUS Points,39.0
+2D Label,P07,SUS Points,35.0
+2D Label,P08,SUS Points,29.0
+2D Label,P09,SUS Points,27.0
+2D Label,P10,SUS Points,30.0
+2D Label,P11,SUS Points,31.0
+2D Label,P12,SUS Points,40.0
+3D Ghost,P01,SUS Points,1.0
+3D Ghost,P02,SUS Points,39.0
+3D Ghost,P03,SUS Points,34.0
+3D Ghost,P04,SUS Points,34.0
+3D Ghost,P05,SUS Points,28.0
+3D Ghost,P06,SUS Points,35.0
+3D Ghost,P07,SUS Points,30.0
+3D Ghost,P08,SUS Points,32.0
+3D Ghost,P09,SUS Points,37.0
+3D Ghost,P10,SUS Points,40.0
+3D Ghost,P11,SUS Points,18.0
+3D Ghost,P12,SUS Points,30.0

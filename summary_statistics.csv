@@ -1,0 +1,15 @@
+variable,Scene,mean,median,std,min,max,count
+Completion Time,2D Label,151.05,151.96,45.11,99.09,230.42,12
+Completion Time,3D Ghost,138.43,121.72,46.11,84.12,212.37,12
+Disorientation,2D Label,30.16,27.84,28.98,0.0,69.6,12
+Disorientation,3D Ghost,18.56,20.88,19.08,0.0,55.68,12
+NASA-TLX Score,2D Label,3.78,3.5,0.89,2.83,5.67,12
+NASA-TLX Score,3D Ghost,3.61,3.42,0.63,2.83,5.0,12
+Nausea,2D Label,12.72,9.54,14.29,0.0,47.7,12
+Nausea,3D Ghost,5.56,0.0,7.56,0.0,19.08,12
+Oculomotor,2D Label,22.74,22.74,17.7,0.0,53.06,12
+Oculomotor,3D Ghost,12.63,11.37,14.93,0.0,53.06,12
+SSQ Score,2D Label,24.31,22.44,20.2,0.0,56.1,12
+SSQ Score,3D Ghost,13.4,13.09,13.1,0.0,48.62,12
+SUS Score,2D Label,85.83,85.0,11.55,67.5,100.0,12
+SUS Score,3D Ghost,74.58,82.5,26.96,2.5,100.0,12
