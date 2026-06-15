@@ -63,33 +63,27 @@ Overall, the results suggest that **3D Ghost guidance may support faster task co
 
 ## Expected input CSV files
 
-Place these raw files in the same folder as `_results.ipynb` before running:
+These raw files should be in the same folder as `_results.ipynb` before running:
 
 - `CompletionTime.csv`
 - `Nasa.csv`
 - `SSQ.csv`
 - `SUS.csv`
 
-Each dataset must include the shared identifiers:
+Each dataset includes the shared identifiers:
 
 - `Scene`
 - `Participant`
 
-The notebook generates the processed files automatically:
-
-- `data_short_format.csv`
-- `data_long_format.csv`
-- `summary_statistics.csv`
 
 ## How to run
 
-1. Install dependencies:
+1. Make sure the required Python libraries are available:
    - `pandas`
    - `matplotlib`
    - `seaborn`
-2. Open `_results.ipynb` in Jupyter Notebook / JupyterLab.
-3. Make sure the four raw CSV files are in the same folder.
-4. Run all cells.
+2. Open `_results.ipynb` in Jupyter Notebook.
+3. Run all cells.
 
 ## Outputs
 
@@ -97,5 +91,4 @@ After running the notebook, you will have:
 
 - Merged dataset: `data_short_format.csv`
 - Long-format dataset: `data_long_format.csv`
-- Summary table: `summary_statistics.csv`
-- Figures: `img-results1.png`, `img-results1.pdf`, `img-results2.png`, `img-results2.pdf`
+- Figures: `img-results1.png`, `img-results2.png`
