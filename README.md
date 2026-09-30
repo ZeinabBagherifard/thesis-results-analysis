@@ -2,6 +2,8 @@
 
 Data analysis pipeline for a master's thesis user study comparing **2D Label** and **3D Ghost** situated visualization conditions in a VR-simulated AR industrial training task.
 
+*Supervised by Luis Quintero and Renan Guarese; the analysis pipeline was refined with input from Luis Quintero.*
+
 ## Overview
 
 This repository contains a Jupyter Notebook that:
